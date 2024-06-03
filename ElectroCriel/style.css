@@ -1,0 +1,8 @@
+#row-oVWTTLyVI1 {       /* navbar */
+    background-color: transparent;
+    box-shadow: none;
+}
+
+#nav-menu-popup {       /* mobile navbar */
+    backdrop-filter: blur(5px);
+}
