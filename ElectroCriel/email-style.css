@@ -1,0 +1,17 @@
+div.email-content {
+    position: relative;
+    background: transparent !important;
+}
+div.email-content:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: 125px;
+    background-image: url(https://storage.googleapis.com/msgsndr/noWK2ky2XEzN4t6fpeAh/media/6667160ce4cfa21d381aae45.png);
+    opacity: 25%;
+    filter: grayscale(1);
+    z-index: -1;
+}
